@@ -1,0 +1,9 @@
+Ingredients:
+- Rye Bread
+- Butter
+
+Directions:
+  1. Heat a pan
+  2. Add butter
+  3. Bake bread in a pan 
+  4. Fry on Pan
